@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "experience": 10,
+        "recipes": 50,
+        "likes": 1000,
+        "imageSrc": "https://via.placeholder.com/300x200"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "experience": 5,
+        "recipes": 20,
+        "likes": 500,
+        "imageSrc": "https://via.placeholder.com/300x200"
+    },
+    {
+        "id": 3,
+        "name": "Peter Lee",
+        "experience": 8,
+        "recipes": 30,
+        "likes": 700,
+        "imageSrc": "https://via.placeholder.com/300x200"
+    },
+    {
+        "id": 4,
+        "name": "Mary Brown",
+        "experience": 15,
+        "recipes": 60,
+        "likes": 1200,
+        "imageSrc": "https://via.placeholder.com/300x200"
+    },
+    {
+        "id": 5,
+        "name": "Joe Smith",
+        "experience": 12,
+        "recipes": 40,
+        "likes": 900,
+        "imageSrc": "https://via.placeholder.com/300x200"
+    },
+    {
+        "id": 6,
+        "name": "Australian Chef",
+        "experience": 20,
+        "recipes": 100,
+        "likes": 2000,
+        "imageSrc": "https://via.placeholder.com/300x200?text=Australian+Chef"
+    }
+]
