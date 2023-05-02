@@ -1,0 +1,296 @@
+[
+    {
+        "id": 1,
+        "name": "Chef John",
+        "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=740&t=st=1683053680~exp=1683054280~hmac=749433da6d3a4163146cc0f6f6df206b9f04a293a535669c46dfa7c616f63d5c",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 250,
+        "likes": 50000,
+        "recipes": [
+            {
+                "name": "Lamb Shank with Rosemary",
+                "image": "https://example.com/lamb-shank.jpg",
+                "ingredients": [
+                    "4 lamb shanks",
+                    "4 cloves garlic, minced",
+                    "2 tbsp olive oil",
+                    "1 tbsp chopped fresh rosemary",
+                    "1 cup beef stock"
+                ],
+                "cookingMethod": "Preheat oven to 350 degrees F. Season lamb shanks with salt and pepper. Heat olive oil in a large oven-safe pot or Dutch oven over medium-high heat. Add lamb shanks and cook until browned on all sides. Add garlic and rosemary and cook for 1 minute. Add beef stock and bring to a simmer. Cover pot and transfer to oven. Bake for 2 to 2 1/2 hours or until lamb is tender.",
+                "ratings": 4.5
+            },
+            {
+                "name": "Barbecued Prawns",
+                "image": "https://example.com/barbecued-prawns.jpg",
+                "ingredients": [
+                    "1 lb. prawns, peeled and deveined",
+                    "2 cloves garlic, minced",
+                    "2 tbsp olive oil",
+                    "1 tbsp chopped fresh parsley",
+                    "1/2 lemon, juiced"
+                ],
+                "cookingMethod": "Preheat barbecue to medium-high heat. In a bowl, mix together garlic, olive oil, parsley, and lemon juice. Add prawns and toss to coat. Thread prawns onto skewers. Grill for 2 to 3 minutes per side or until cooked through. Serve immediately.",
+                "ratings": 4.2
+            },
+            {
+                "name": "Pavlova",
+                "image": "https://example.com/pavlova.jpg",
+                "ingredients": [
+                    "4 egg whites",
+                    "1 cup caster sugar",
+                    "1 tsp white vinegar",
+                    "1 tsp cornstarch",
+                    "1/2 tsp vanilla extract"
+                ],
+                "cookingMethod": "Preheat oven to 300 degrees F. Line a baking sheet with parchment paper. In a bowl, beat egg whites with an electric mixer until stiff peaks form. Gradually add caster sugar, 1 tablespoon at a time, beating well after each addition.",
+                "ratings": 4.8
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Peterson doe",
+        "picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?w=900&t=st=1683054622~exp=1683055222~hmac=1f65fdf7cc5811df9eb1fdfa86dd9fb34cb6f0710aef06cbaf16452260ed35c6",
+        "years_of_experience": 10,
+        "number_of_recipes": 100,
+        "likes": 50000,
+        "recipes": [
+            {
+                "name": "Lamb Roast",
+                "image": "https://example.com/lamb-roast.jpg",
+                "ingredients": [
+                    "1 leg of lamb",
+                    "2 cloves of garlic",
+                    "1 sprig of rosemary",
+                    "1 lemon",
+                    "2 tbsp olive oil"
+                ],
+                "cooking_method": "Preheat oven to 350°F. Rub lamb with olive oil, garlic, and rosemary. Roast in the oven for 2-3 hours. Serve with lemon wedges.",
+                "rating": 4.5
+            },
+            {
+                "name": "Pavlova",
+                "image": "https://example.com/pavlova.jpg",
+                "ingredients": [
+                    "6 egg whites",
+                    "1 1/2 cups caster sugar",
+                    "1 tsp white vinegar",
+                    "1 tsp vanilla extract",
+                    "1 tbsp cornflour"
+                ],
+                "cooking_method": "Preheat oven to 300°F. Beat egg whites until stiff peaks form. Gradually add sugar and beat until glossy. Fold in vinegar, vanilla, and cornflour. Spoon onto a baking tray lined with parchment paper. Bake for 1 hour. Serve with whipped cream and fruit.",
+                "rating": 4.8
+            },
+            {
+                "name": "Meat Pie",
+                "image": "https://example.com/meat-pie.jpg",
+                "ingredients": [
+                    "1 lb ground beef",
+                    "1 onion",
+                    "2 cloves of garlic",
+                    "1 carrot",
+                    "1 tbsp Worcestershire sauce"
+                ],
+                "cooking_method": "Preheat oven to 375°F. Brown beef in a pan. Add onion, garlic, and carrot and cook until softened. Stir in Worcestershire sauce. Pour mixture into a pie dish. Cover with puff pastry. Bake for 25-30 minutes. Serve hot.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Chef Emily",
+        "picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=900&t=st=1683054615~exp=1683055215~hmac=95e55cc908e2f2fad8a2eff6154eea0a94cd0bd0a2dec93998260769a7f10350",
+        "years_of_experience": 8,
+        "number_of_recipes": 75,
+        "likes": 25000,
+        "recipes": [
+            {
+                "name": "Kangaroo Steak",
+                "image": "https://example.com/kangaroo-steak.jpg",
+                "ingredients": [
+                    "2 kangaroo steaks",
+                    "2 tbsp olive oil",
+                    "1 tsp sea salt",
+                    "1 tsp black pepper",
+                    "1 tsp dried thyme"
+                ],
+                "cooking_method": "Preheat grill to high heat. Brush steaks with olive oil and season with salt, pepper, and thyme. Grill for 3-4 minutes on each side. Let rest for 5 minutes before serving.",
+                "rating": 4.3
+            },
+            {
+                "name": "Anzac Biscuits",
+                "image": "https://example.com/anzac-biscuits.jpg",
+                "ingredients": [
+                    "1 cup rolled oats",
+                    "1 cup plain flour",
+                    "1 cup brown sugar",
+                    "3/4 cup desiccated coconut",
+                    "1/2 cup butter"
+                ],
+                "cooking_method": "Preheat oven to 350°F. Combine dry ingredients in a bowl. Melt butter in a saucepan. Add golden syrup and stir. Mix wet and dry ingredients together. Roll into balls and place on a baking tray lined with parchment paper. Bake for 15-20 minutes. Let cool before serving.",
+                "rating": 4.7
+            },
+            {
+                "name": "Barramundi Curry",
+                "image": "https://example.com/barramundi-curry.jpg",
+                "ingredients": [
+                    "2 barramundi fillets",
+                    "1 onion",
+                    "2 garlic cloves",
+                    "1 red chili",
+                    "1 tbsp curry powder"
+                ],
+                "cooking_method": "Heat oil in a pan. Add onion, garlic, and chili and cook until softened. Add curry powder and stir. Add barramundi fillets and cook until browned on both sides. Add coconut milk and simmer for 10-15 minutes. Serve with rice.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Chef Sarah",
+        "picture": "https://img.freepik.com/free-photo/medium-shot-chef-with-pan-spatula_23-2148723241.jpg?w=740&t=st=1683054605~exp=1683055205~hmac=6d3d0bd1b5da15206d6ba394dd8d5baf4b3b121ea1898d16bd5009fea0dae1fc",
+        "years_of_experience": 12,
+        "number_of_recipes": 150,
+        "likes": 75000,
+        "recipes": [
+            {
+                "name": "Grilled Prawns",
+                "image": "https://example.com/grilled-prawns.jpg",
+                "ingredients": [
+                    "1 lb large prawns",
+                    "2 tbsp olive oil",
+                    "1 tsp sea salt",
+                    "1 tsp black pepper",
+                    "1 lemon"
+                ],
+                "cooking_method": "Preheat grill to medium heat. Brush prawns with olive oil and season with salt and pepper. Grill for 2-3 minutes on each side. Squeeze lemon juice over prawns before serving.",
+                "rating": 4.9
+            },
+            {
+                "name": "Lamingtons",
+                "image": "https://example.com/lamingtons.jpg",
+                "ingredients": [
+                    "1 1/2 cups all-purpose flour",
+                    "1 tsp baking powder",
+                    "1/2 cup butter",
+                    "1 cup granulated sugar",
+                    "2 eggs"
+                ],
+                "cooking_method": "Preheat oven to 350°F. Sift flour and baking powder together in a bowl. In another bowl, cream butter and sugar together until light and fluffy. Beat in eggs one at a time. Add flour mixture and mix well. Pour into a greased 9-inch square cake pan. Bake for 25-30 minutes. Let cool before cutting into small squares. Dip each square into chocolate icing and then coat with shredded coconut.",
+                "rating": 4.4
+            },
+            {
+                "name": "Beef and Guinness Pie",
+                "image": "https://example.com/beef-and-guinness-pie.jpg",
+                "ingredients": [
+                    "1 lb stewing beef",
+                    "1 onion",
+                    "2 cloves of garlic",
+                    "1 carrot",
+                    "1 bottle of Guinness"
+                ],
+                "cooking_method": "Preheat oven to 375°F. Brown beef in a pan. Add onion, garlic, and carrot and cook until softened. Add Guinness and bring to a boil. Pour mixture into a pie dish. Cover with puff pastry. Bake for 25-30 minutes. Serve hot.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Chef Mario",
+        "picture": "https://img.freepik.com/premium-photo/professional-chef-man-showing-sign-delicious-male-chef-white-uniform-with-perfect-sign_488220-21776.jpg?w=900",
+        "years_of_experience": 20,
+        "number_of_recipes": 200,
+        "likes": 100000,
+        "recipes": [
+            {
+                "name": "Spaghetti Carbonara",
+                "image": "https://example.com/spaghetti-carbonara.jpg",
+                "ingredients": [
+                    "1 lb spaghetti",
+                    "1/2 lb pancetta",
+                    "4 egg yolks",
+                    "1 cup grated Parmesan cheese",
+                    "4 cloves garlic"
+                ],
+                "cooking_method": "Cook spaghetti according to package directions. While spaghetti is cooking, fry pancetta in a pan until crispy. Remove from pan and set aside. In a bowl, whisk together egg yolks and Parmesan cheese. Drain spaghetti and add to the pan with the pancetta. Add minced garlic and stir well. Remove pan from heat and add egg yolk mixture, stirring quickly to avoid curdling the eggs. Serve immediately.",
+                "rating": 4.8
+            },
+            {
+                "name": "Margherita Pizza",
+                "image": "https://example.com/margherita-pizza.jpg",
+                "ingredients": [
+                    "1 lb pizza dough",
+                    "1 cup tomato sauce",
+                    "8 oz fresh mozzarella cheese",
+                    "1/4 cup fresh basil leaves",
+                    "2 tbsp olive oil"
+                ],
+                "cooking_method": "Preheat oven to 500°F. Roll out pizza dough to desired size and thickness. Spread tomato sauce evenly over the dough. Tear fresh mozzarella into small pieces and scatter over the sauce. Drizzle olive oil over the pizza. Bake for 10-12 minutes or until crust is golden brown and cheese is melted. Top with fresh basil leaves before serving.",
+                "rating": 4.6
+            },
+            {
+                "name": "Tiramisu",
+                "image": "https://example.com/tiramisu.jpg",
+                "ingredients": [
+                    "6 egg yolks",
+                    "3/4 cup granulated sugar",
+                    "2/3 cup milk",
+                    "1 1/4 cups heavy cream",
+                    "1/2 tsp vanilla extract"
+                ],
+                "cooking_method": "In a double boiler, whisk together egg yolks and sugar until pale and thick. Gradually whisk in milk and cook until mixture thickens, stirring constantly.  Dip ladyfingers into strong coffee and place in a layer on the bottom of a dish. Cover with half of the egg mixture. Repeat with another layer of ladyfingers and remaining egg mixture. Cover and chill for at least 2 hours before serving.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Chef Ragnar",
+        "picture": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9899.jpg?w=360&t=st=1683054930~exp=1683055530~hmac=8383efd19b725e111f8f177f7026dace54119bdfd0adaffc8c00d35bad9f3d37",
+        "years_of_experience": 15,
+        "number_of_recipes": 150,
+        "likes": 50000,
+        "recipes": [
+            {
+                "name": "Tacos al Pastor",
+                "image": "https://example.com/tacos-al-pastor.jpg",
+                "ingredients": [
+                    "1 lb pork shoulder, thinly sliced",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1/4 cup pineapple juice",
+                    "2 tbsp achiote paste"
+                ],
+                "cooking_method": "In a blender, combine onion, garlic, pineapple juice, achiote paste, and salt. Blend until smooth. Pour mixture over pork and let marinate for at least 2 hours. Preheat a grill or grill pan to medium-high heat. Thread pork slices onto skewers and grill until cooked through, about 5-7 minutes per side. Serve with corn tortillas, chopped onion, cilantro, and lime wedges.",
+                "rating": 4.9
+            },
+            {
+                "name": "Guacamole",
+                "image": "https://example.com/guacamole.jpg",
+                "ingredients": [
+                    "3 ripe avocados",
+                    "1/2 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1/4 cup chopped fresh cilantro",
+                    "1 lime, juiced"
+                ],
+                "cooking_method": "Halve and pit the avocados. Scoop out the flesh and mash with a fork in a bowl. Add onion, garlic, jalapeño, cilantro, lime juice, and salt to taste. Stir to combine. Serve immediately with tortilla chips or as a side dish.",
+                "rating": 4.5
+            },
+            {
+                "name": "Enchiladas",
+                "image": "https://example.com/enchiladas.jpg",
+                "ingredients": [
+                    "12 corn tortillas",
+                    "2 cups shredded cooked chicken",
+                    "1 onion, chopped",
+                    "2 cups enchilada sauce",
+                    "1 cup shredded Monterey Jack cheese"
+                ],
+                "cooking_method": "Preheat oven to 350°F. In a skillet, sauté onion and garlic until softened. Add shredded chicken and 1 cup of enchilada sauce. Stir to combine. Warm tortillas in the microwave or oven until pliable. Spoon chicken mixture into each tortilla and roll up tightly.",
+                "rating": 4.7
+            }
+        ]
+    }
+]
