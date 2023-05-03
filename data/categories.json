@@ -3,9 +3,10 @@
         "id": 1,
         "name": "Chef John",
         "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=740&t=st=1683053680~exp=1683054280~hmac=749433da6d3a4163146cc0f6f6df206b9f04a293a535669c46dfa7c616f63d5c",
-        "yearsOfExperience": 15,
-        "numberOfRecipes": 250,
+        "years_of_experience": 15,
+        "number_of_recipes": 250,
         "likes": 50000,
+        "bio": "Chef John is an Australian chef, restaurateur, and food writer. He is the owner of several successful restaurants, including the iconic Stephanie's Restaurant in Melbourne. Alexander is also the author of several cookbooks, including The Cook's Companion, which is considered a staple in many Australian kitchens.",
         "recipes": [
             {
                 "name": "Lamb Shank with Rosemary",
@@ -55,6 +56,7 @@
         "years_of_experience": 10,
         "number_of_recipes": 100,
         "likes": 50000,
+        "bio": "Peterson doe is a well-known Australian chef and restaurateur. He is the owner of the Rockpool Dining Group, which includes several high-end restaurants across Australia. Perry is also a television personality and has written numerous cookbooks, including The Food I Love.",
         "recipes": [
             {
                 "name": "Lamb Roast",
@@ -99,11 +101,12 @@
     },
     {
         "id": "3",
-        "name": "Chef Emily",
-        "picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=900&t=st=1683054615~exp=1683055215~hmac=95e55cc908e2f2fad8a2eff6154eea0a94cd0bd0a2dec93998260769a7f10350",
+        "name": "Shannon Bennett",
+        "picture": "https://img.freepik.com/free-photo/aggressive-young-chef-wearing-glasses-uniform-cap-holding-knife-looking-camera-while-keeping-hand-arm-isolated-purple-background_141793-138275.jpg?w=740&t=st=1683108968~exp=1683109568~hmac=cfeb450079a0ad58425125ca23af6dc072002172ba8c7e7ba5c7cfd61081ef9b",
         "years_of_experience": 8,
         "number_of_recipes": 75,
         "likes": 25000,
+        "bio": "Shannon Bennett is an award-winning chef and restaurateur. He is the owner of Vue de Monde, a fine-dining restaurant in Melbourne that has been consistently ranked as one of the best in Australia. Bennett is also a television personality and has written several cookbooks.",
         "recipes": [
             {
                 "name": "Kangaroo Steak",
@@ -148,11 +151,12 @@
     },
     {
         "id": "4",
-        "name": "Chef Sarah",
+        "name": "Curtis Stone",
         "picture": "https://img.freepik.com/free-photo/medium-shot-chef-with-pan-spatula_23-2148723241.jpg?w=740&t=st=1683054605~exp=1683055205~hmac=6d3d0bd1b5da15206d6ba394dd8d5baf4b3b121ea1898d16bd5009fea0dae1fc",
         "years_of_experience": 12,
         "number_of_recipes": 150,
         "likes": 75000,
+        "bio": "Curtis Stone is an Australian celebrity chef who has hosted several cooking shows including Top Chef Masters and Around the World in 80 Plates. He has also authored several cookbooks and runs two restaurants in Los Angeles. Stone is known for his modern take on classic dishes and his use of fresh, seasonal ingredients.",
         "recipes": [
             {
                 "name": "Grilled Prawns",
@@ -198,10 +202,11 @@
     {
         "id": "5",
         "name": "Chef Mario",
-        "picture": "https://img.freepik.com/premium-photo/professional-chef-man-showing-sign-delicious-male-chef-white-uniform-with-perfect-sign_488220-21776.jpg?w=900",
+        "picture": "https://img.freepik.com/premium-photo/handsome-bearded-chef-uniform-spilling-salt-man-chef-restaurant-kitchen-preparing-food-adding_378307-5241.jpg?w=740",
         "years_of_experience": 20,
         "number_of_recipes": 200,
         "likes": 100000,
+        "bio": "Chef Mario is a renowned Australian cook, author, and television personality. She is best known for her cooking show The Cook and The Chef and has written numerous cookbooks. Beer is also a successful food entrepreneur, with her own range of gourmet foods including pate, chutneys, and ice cream.",
         "recipes": [
             {
                 "name": "Spaghetti Carbonara",
@@ -251,6 +256,7 @@
         "years_of_experience": 15,
         "number_of_recipes": 150,
         "likes": 50000,
+        "bio": "Chef Ragnar is an award-winning Australian chef and restaurateur. He is the owner of Aria restaurants in Sydney and Brisbane, and has been a judge on the television show MasterChef Australia. Moran has also written several cookbooks and is a regular contributor to food and lifestyle publications",
         "recipes": [
             {
                 "name": "Tacos al Pastor",
