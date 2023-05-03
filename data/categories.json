@@ -9,7 +9,7 @@
         "bio": "Chef John is an Australian chef, restaurateur, and food writer. He is the owner of several successful restaurants, including the iconic Stephanie's Restaurant in Melbourne. Alexander is also the author of several cookbooks, including The Cook's Companion, which is considered a staple in many Australian kitchens.",
         "recipes": [
             {
-                "name": "Lamb Shank with Rosemary",
+                "name": "Lamb Shank Rosemary",
                 "image": "https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=740&t=st=1683055052~exp=1683055652~hmac=319e6939a7bdaa2e6ddff3c4711d641ed488497a565983c2a050e7adde7ec4e4",
                 "ingredients": [
                     "4 lamb shanks",
@@ -18,7 +18,7 @@
                     "1 tbsp chopped fresh rosemary",
                     "1 cup beef stock"
                 ],
-                "cookingMethod": "Preheat oven to 350 degrees F. Season lamb shanks with salt and pepper. Heat olive oil in a large oven-safe pot or Dutch oven over medium-high heat. Add lamb shanks and cook until browned on all sides. Add garlic and rosemary and cook for 1 minute. Add beef stock and bring to a simmer. Cover pot and transfer to oven. Bake for 2 to 2 1/2 hours or until lamb is tender.",
+                "cookingMethod": "Preheat oven to 350 degrees F. Season lamb shanks with salt and pepper. Heat olive oil in a large oven-safe pot or Dutch oven over medium-high heat. Bake for 2 to 2 1/2 hours or until lamb is tender.",
                 "ratings": 4.5
             },
             {
@@ -68,8 +68,8 @@
                     "1 lemon",
                     "2 tbsp olive oil"
                 ],
-                "cooking_method": "Preheat oven to 350°F. Rub lamb with olive oil, garlic, and rosemary. Roast in the oven for 2-3 hours. Serve with lemon wedges.",
-                "rating": 4.5
+                "cookingMethod": "Preheat oven to 350°F. Rub lamb with olive oil, garlic, and rosemary. Roast in the oven for 2-3 hours. Serve with lemon wedges.",
+                "ratings": 4.5
             },
             {
                 "name": "Pavlova",
@@ -81,8 +81,8 @@
                     "1 tsp vanilla extract",
                     "1 tbsp cornflour"
                 ],
-                "cooking_method": "Preheat oven to 300°F. Beat egg whites until stiff peaks form. Gradually add sugar and beat until glossy. Fold in vinegar, vanilla, and cornflour. Spoon onto a baking tray lined with parchment paper. Bake for 1 hour. Serve with whipped cream and fruit.",
-                "rating": 4.8
+                "cookingMethod": "Preheat oven to 300°F. Beat egg whites until stiff peaks form. Gradually add sugar and beat until glossy. Fold in vinegar, vanilla, and cornflour. Spoon onto a baking tray lined with parchment paper. Bake for 1 hour. Serve with whipped cream and fruit.",
+                "ratings": 4.8
             },
             {
                 "name": "Meat Pie",
@@ -94,13 +94,13 @@
                     "1 carrot",
                     "1 tbsp Worcestershire sauce"
                 ],
-                "cooking_method": "Preheat oven to 375°F. Brown beef in a pan. Add onion, garlic, and carrot and cook until softened. Stir in Worcestershire sauce. Pour mixture into a pie dish. Cover with puff pastry. Bake for 25-30 minutes. Serve hot.",
-                "rating": 4.2
+                "cookingMethod": "Preheat oven to 375°F. Brown beef in a pan. Add onion, garlic, and carrot and cook until softened. Stir in Worcestershire sauce. Pour mixture into a pie dish. Cover with puff pastry. Bake for 25-30 minutes. Serve hot.",
+                "ratings": 4.2
             }
         ]
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "Shannon Bennett",
         "picture": "https://img.freepik.com/free-photo/aggressive-young-chef-wearing-glasses-uniform-cap-holding-knife-looking-camera-while-keeping-hand-arm-isolated-purple-background_141793-138275.jpg?w=740&t=st=1683108968~exp=1683109568~hmac=cfeb450079a0ad58425125ca23af6dc072002172ba8c7e7ba5c7cfd61081ef9b",
         "years_of_experience": 8,
@@ -118,8 +118,8 @@
                     "1 tsp black pepper",
                     "1 tsp dried thyme"
                 ],
-                "cooking_method": "Preheat grill to high heat. Brush steaks with olive oil and season with salt, pepper, and thyme. Grill for 3-4 minutes on each side. Let rest for 5 minutes before serving.",
-                "rating": 4.3
+                "cookingMethod": "Preheat grill to high heat. Brush steaks with olive oil and season with salt, pepper, and thyme. Grill for 3-4 minutes on each side. Let rest for 5 minutes before serving.",
+                "ratings": 4.3
             },
             {
                 "name": "Anzac Biscuits",
@@ -131,8 +131,8 @@
                     "3/4 cup desiccated coconut",
                     "1/2 cup butter"
                 ],
-                "cooking_method": "Preheat oven to 350°F. Combine dry ingredients in a bowl. Melt butter in a saucepan. Add golden syrup and stir. Mix wet and dry ingredients together. Roll into balls and place on a baking tray lined with parchment paper. Bake for 15-20 minutes. Let cool before serving.",
-                "rating": 4.7
+                "cookingMethod": "Preheat oven to 350°F. Combine dry ingredients in a bowl. Melt butter in a saucepan. Add golden syrup and stir. Mix wet and dry ingredients together. Roll into balls and place on a baking tray lined with parchment paper. Bake for 15-20 minutes. Let cool before serving.",
+                "ratings": 4.7
             },
             {
                 "name": "Barramundi Curry",
@@ -144,13 +144,13 @@
                     "1 red chili",
                     "1 tbsp curry powder"
                 ],
-                "cooking_method": "Heat oil in a pan. Add onion, garlic, and chili and cook until softened. Add curry powder and stir. Add barramundi fillets and cook until browned on both sides. Add coconut milk and simmer for 10-15 minutes. Serve with rice.",
-                "rating": 4.6
+                "cookingMethod": "Heat oil in a pan. Add onion, garlic, and chili and cook until softened. Add curry powder and stir. Add barramundi fillets and cook until browned on both sides. Add coconut milk and simmer for 10-15 minutes. Serve with rice.",
+                "ratings": 4.6
             }
         ]
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "Curtis Stone",
         "picture": "https://img.freepik.com/free-photo/medium-shot-chef-with-pan-spatula_23-2148723241.jpg?w=740&t=st=1683054605~exp=1683055205~hmac=6d3d0bd1b5da15206d6ba394dd8d5baf4b3b121ea1898d16bd5009fea0dae1fc",
         "years_of_experience": 12,
@@ -168,8 +168,8 @@
                     "1 tsp black pepper",
                     "1 lemon"
                 ],
-                "cooking_method": "Preheat grill to medium heat. Brush prawns with olive oil and season with salt and pepper. Grill for 2-3 minutes on each side. Squeeze lemon juice over prawns before serving.",
-                "rating": 4.9
+                "cookingMethod": "Preheat grill to medium heat. Brush prawns with olive oil and season with salt and pepper. Grill for 2-3 minutes on each side. Squeeze lemon juice over prawns before serving.",
+                "ratings": 4.9
             },
             {
                 "name": "Lamingtons",
@@ -181,8 +181,8 @@
                     "1 cup granulated sugar",
                     "2 eggs"
                 ],
-                "cooking_method": "Preheat oven to 350°F. Sift flour and baking powder together in a bowl. In another bowl, cream butter and sugar together until light and fluffy. Beat in eggs one at a time. Add flour mixture and mix well. Pour into a greased 9-inch square cake pan. Bake for 25-30 minutes. Let cool before cutting into small squares. Dip each square into chocolate icing and then coat with shredded coconut.",
-                "rating": 4.4
+                "cookingMethod": "Preheat oven to 350°F. Sift flour and baking powder together in a bowl. In another bowl, cream butter and sugar together until light and fluffy. Beat in eggs one at a time. Add flour mixture and mix well. Pour into a greased 9-inch square cake pan. Bake for 25-30 minutes. Let cool before cutting into small squares. Dip each square into chocolate icing and then coat with shredded coconut.",
+                "ratings": 4.4
             },
             {
                 "name": "Beef and Guinness Pie",
@@ -194,13 +194,13 @@
                     "1 carrot",
                     "1 bottle of Guinness"
                 ],
-                "cooking_method": "Preheat oven to 375°F. Brown beef in a pan. Add onion, garlic, and carrot and cook until softened. Add Guinness and bring to a boil. Pour mixture into a pie dish. Cover with puff pastry. Bake for 25-30 minutes. Serve hot.",
-                "rating": 4.7
+                "cookingMethod": "Preheat oven to 375°F. Brown beef in a pan. Add onion, garlic, and carrot and cook until softened. Add Guinness and bring to a boil. Pour mixture into a pie dish. Cover with puff pastry. Bake for 25-30 minutes. Serve hot.",
+                "ratings": 4.7
             }
         ]
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "Chef Mario",
         "picture": "https://img.freepik.com/premium-photo/handsome-bearded-chef-uniform-spilling-salt-man-chef-restaurant-kitchen-preparing-food-adding_378307-5241.jpg?w=740",
         "years_of_experience": 20,
@@ -218,7 +218,7 @@
                     "1 cup grated Parmesan cheese",
                     "4 cloves garlic"
                 ],
-                "cooking_method": "Cook spaghetti according to package directions. While spaghetti is cooking, fry pancetta in a pan until crispy. Remove from pan and set aside. In a bowl, whisk together egg yolks and Parmesan cheese. Drain spaghetti and add to the pan with the pancetta. Add minced garlic and stir well. Remove pan from heat and add egg yolk mixture, stirring quickly to avoid curdling the eggs. Serve immediately.",
+                "cookingMethod": "Cook spaghetti according to package directions. While spaghetti is cooking, fry pancetta in a pan until crispy. Remove from pan and set aside. In a bowl, whisk together egg yolks and Parmesan cheese. Drain spaghetti and add to the pan with the pancetta. Add minced garlic and stir well. Remove pan from heat and add egg yolk mixture, stirring quickly to avoid curdling the eggs. Serve immediately.",
                 "rating": 4.8
             },
             {
@@ -231,8 +231,8 @@
                     "1/4 cup fresh basil leaves",
                     "2 tbsp olive oil"
                 ],
-                "cooking_method": "Preheat oven to 500°F. Roll out pizza dough to desired size and thickness. Spread tomato sauce evenly over the dough. Tear fresh mozzarella into small pieces and scatter over the sauce. Drizzle olive oil over the pizza. Bake for 10-12 minutes or until crust is golden brown and cheese is melted. Top with fresh basil leaves before serving.",
-                "rating": 4.6
+                "cookingMethod": "Preheat oven to 500°F. Roll out pizza dough to desired size and thickness. Spread tomato sauce evenly over the dough. Tear fresh mozzarella into small pieces and scatter over the sauce. Drizzle olive oil over the pizza. Bake for 10-12 minutes or until crust is golden brown and cheese is melted. Top with fresh basil leaves before serving.",
+                "ratings": 4.6
             },
             {
                 "name": "Tiramisu",
@@ -244,13 +244,13 @@
                     "1 1/4 cups heavy cream",
                     "1/2 tsp vanilla extract"
                 ],
-                "cooking_method": "In a double boiler, whisk together egg yolks and sugar until pale and thick. Gradually whisk in milk and cook until mixture thickens, stirring constantly.  Dip ladyfingers into strong coffee and place in a layer on the bottom of a dish. Cover with half of the egg mixture. Repeat with another layer of ladyfingers and remaining egg mixture. Cover and chill for at least 2 hours before serving.",
-                "rating": 4.7
+                "cookingMethod": "In a double boiler, whisk together egg yolks and sugar until pale and thick. Gradually whisk in milk and cook until mixture thickens, stirring constantly.  Dip ladyfingers into strong coffee and place in a layer on the bottom of a dish. Cover with half of the egg mixture. Repeat with another layer of ladyfingers and remaining egg mixture. Cover and chill for at least 2 hours before serving.",
+                "ratings": 4.7
             }
         ]
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "Chef Ragnar",
         "picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=740&t=st=1683103059~exp=1683103659~hmac=a3ef462bd53e8d786f142f039de2d82aa5127d9700800eb22a8dc5c302180edb",
         "years_of_experience": 15,
@@ -268,7 +268,7 @@
                     "1/4 cup pineapple juice",
                     "2 tbsp achiote paste"
                 ],
-                "cooking_method": "In a blender, combine onion, garlic, pineapple juice, achiote paste, and salt. Blend until smooth. Pour mixture over pork and let marinate for at least 2 hours. Preheat a grill or grill pan to medium-high heat. Thread pork slices onto skewers and grill until cooked through, about 5-7 minutes per side. Serve with corn tortillas, chopped onion, cilantro, and lime wedges.",
+                "cookingMethod": "In a blender, combine onion, garlic, pineapple juice, achiote paste, and salt. Blend until smooth. Pour mixture over pork and let marinate for at least 2 hours. Preheat a grill or grill pan to medium-high heat. Thread pork slices onto skewers and grill until cooked through, about 5-7 minutes per side. Serve with corn tortillas, chopped onion, cilantro, and lime wedges.",
                 "rating": 4.9
             },
             {
@@ -281,8 +281,8 @@
                     "1/4 cup chopped fresh cilantro",
                     "1 lime, juiced"
                 ],
-                "cooking_method": "Halve and pit the avocados. Scoop out the flesh and mash with a fork in a bowl. Add onion, garlic, jalapeño, cilantro, lime juice, and salt to taste. Stir to combine. Serve immediately with tortilla chips or as a side dish.",
-                "rating": 4.5
+                "cookingMethod": "Halve and pit the avocados. Scoop out the flesh and mash with a fork in a bowl. Add onion, garlic, jalapeño, cilantro, lime juice, and salt to taste. Stir to combine. Serve immediately with tortilla chips or as a side dish.",
+                "ratings": 4.5
             },
             {
                 "name": "Enchiladas",
@@ -294,8 +294,8 @@
                     "2 cups enchilada sauce",
                     "1 cup shredded Monterey Jack cheese"
                 ],
-                "cooking_method": "Preheat oven to 350°F. In a skillet, sauté onion and garlic until softened. Add shredded chicken and 1 cup of enchilada sauce. Stir to combine. Warm tortillas in the microwave or oven until pliable. Spoon chicken mixture into each tortilla and roll up tightly.",
-                "rating": 4.7
+                "cookingMethod": "Preheat oven to 350°F. In a skillet, sauté onion and garlic until softened. Add shredded chicken and 1 cup of enchilada sauce. Stir to combine. Warm tortillas in the microwave or oven until pliable. Spoon chicken mixture into each tortilla and roll up tightly.",
+                "ratings": 4.7
             }
         ]
     }
